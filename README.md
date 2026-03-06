@@ -1,16 +1,18 @@
-## Hi there 👋
+# Anik17-ket
 
-<!--
-**Anik17-ket/Anik17-ket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate developer with expertise in various programming languages and technologies. My focus is on building scalable and efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, JavaScript, TypeScript, C++
+- **Frameworks:** React, Node.js, Django
+- **Databases:** PostgreSQL, MongoDB
+
+## Projects
+- [Project 1](https://github.com/Anik17-ket/project1): Brief description of project 1.
+- [Project 2](https://github.com/Anik17-ket/project2): Brief description of project 2.
+
+## Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anik17-ket).
