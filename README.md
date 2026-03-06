@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Anik17-ket
+# Hey there! 👋 I'm Aniket Batule
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and continuously expanding my technical expertise.
 
@@ -24,8 +24,6 @@ I'm a full-stack developer with a passion for clean code, problem-solving, and c
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
