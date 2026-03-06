@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 I am a passionate developer with expertise in various programming languages and technologies. My focus is on building scalable and efficient applications.
 
 ## Skills
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks:** React, Node.js, Django
+- **Languages:** C,C++,Java,Python, JavaScript, TypeScript
+- **Frameworks:** React, Node.js, Epress
 - **Databases:** PostgreSQL, MongoDB
 
 ## Projects
