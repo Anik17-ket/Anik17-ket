@@ -73,7 +73,7 @@ I'm a full-stack developer with a passion for clean code, problem-solving, and c
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aniket-batule-70a537279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aniket-batule-70a537279)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbatule1717@gmail.com)
 
 - **GitHub**: [@Anik17-ket](https://github.com/Anik17-ket)
